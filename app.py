@@ -5,6 +5,8 @@ import pandas as pd
 st.write("""
 # NIK Validator 🔍
 Selamat datang di aplikasi NIK Validator! Aplikasi ini dikhususkan untuk validasi dasar NIK Indonesia untuk wilayah Tangerang Selatan.
+
+###### By: Kelompok Teku &copy;2024 - [K. Ramadityo](https://github.com/ramadityo)
 """)
 
 def evaluasi_bagian(label, value, pola, bobot):
